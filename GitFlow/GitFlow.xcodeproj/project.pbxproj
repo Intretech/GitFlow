@@ -15,6 +15,7 @@
 		1D4C1BAD21A642E8001243DB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C1BAC21A642E8001243DB /* main.m */; };
 		1D4C1BB721A642E8001243DB /* GitFlowTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C1BB621A642E8001243DB /* GitFlowTests.m */; };
 		1D4C1BC221A642E8001243DB /* GitFlowUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C1BC121A642E8001243DB /* GitFlowUITests.m */; };
+		1D4C1BD121A645E1001243DB /* Feature1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D4C1BD021A645E1001243DB /* Feature1ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		1D4C1BBD21A642E8001243DB /* GitFlowUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitFlowUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D4C1BC121A642E8001243DB /* GitFlowUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitFlowUITests.m; sourceTree = "<group>"; };
 		1D4C1BC321A642E8001243DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D4C1BCF21A645E1001243DB /* Feature1ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature1ViewController.h; sourceTree = "<group>"; };
+		1D4C1BD021A645E1001243DB /* Feature1ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature1ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				1D4C1B9E21A642DA001243DB /* AppDelegate.m */,
 				1D4C1BA021A642DA001243DB /* ViewController.h */,
 				1D4C1BA121A642DA001243DB /* ViewController.m */,
+				1D4C1BCF21A645E1001243DB /* Feature1ViewController.h */,
+				1D4C1BD021A645E1001243DB /* Feature1ViewController.m */,
 				1D4C1BA321A642DA001243DB /* Main.storyboard */,
 				1D4C1BA621A642E8001243DB /* Assets.xcassets */,
 				1D4C1BA821A642E8001243DB /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				1D4C1BA221A642DA001243DB /* ViewController.m in Sources */,
 				1D4C1BAD21A642E8001243DB /* main.m in Sources */,
 				1D4C1B9F21A642DA001243DB /* AppDelegate.m in Sources */,
+				1D4C1BD121A645E1001243DB /* Feature1ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
